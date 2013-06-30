@@ -1,0 +1,13 @@
+#Sun Jun 30 20:11:49 CST 2013
+eclipse.preferences.version=1
+encoding//library/MyCmd.py=utf-8
+encoding//server/factories/mainFactory.py=utf-8
+encoding//server/protocols/mainProtocol.py=utf-8
+encoding//server/remod/basemod.py=utf-8
+encoding//server/service/clientService.py=utf-8
+encoding//server/service/mainService.py=utf-8
+encoding//server/service/serverService.py=utf-8
+encoding//server/test/fastpoetry.py=utf-8
+encoding//server/test/prototest.py=utf-8
+encoding//server/test/testserver.py=utf-8
+encoding//twisted/plugins/InteSys_plugin.py=utf-8

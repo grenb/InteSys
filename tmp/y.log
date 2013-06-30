@@ -1,0 +1,222 @@
+2013-06-30 14:58:40+0800 [-] Log opened.
+2013-06-30 14:58:40+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 14:58:40+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 14:58:40+0800 [-] MyServerFactory starting on 10000
+2013-06-30 14:58:40+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02A22FD0>
+2013-06-30 14:58:40+0800 [-] start MyServerFactory
+2013-06-30 14:58:40+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 14:58:59+0800 [-] Received SIGINT, shutting down.
+2013-06-30 14:58:59+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 14:58:59+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02A22FD0>
+2013-06-30 14:58:59+0800 [-] stop MyServerFactory
+2013-06-30 14:58:59+0800 [-] Main loop terminated.
+2013-06-30 14:58:59+0800 [-] Server Shut Down.
+2013-06-30 14:58:59+0800 [-] Server Shut Down.
+2013-06-30 14:59:06+0800 [-] Log opened.
+2013-06-30 14:59:06+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 14:59:06+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 14:59:06+0800 [-] MyServerFactory starting on 10000
+2013-06-30 14:59:06+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02A32FD0>
+2013-06-30 14:59:06+0800 [-] start MyServerFactory
+2013-06-30 14:59:06+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 14:59:19+0800 [-] Received SIGINT, shutting down.
+2013-06-30 14:59:19+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 14:59:19+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02A32FD0>
+2013-06-30 14:59:19+0800 [-] stop MyServerFactory
+2013-06-30 14:59:19+0800 [-] Main loop terminated.
+2013-06-30 14:59:19+0800 [-] Server Shut Down.
+2013-06-30 14:59:19+0800 [-] Server Shut Down.
+2013-06-30 15:00:32+0800 [-] Log opened.
+2013-06-30 15:00:32+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:00:32+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:00:32+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:00:32+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02E06FD0>
+2013-06-30 15:00:32+0800 [-] start MyServerFactory
+2013-06-30 15:00:32+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:00:46+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:00:46+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:00:46+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02E06FD0>
+2013-06-30 15:00:46+0800 [-] stop MyServerFactory
+2013-06-30 15:00:46+0800 [-] Main loop terminated.
+2013-06-30 15:00:46+0800 [-] Server Shut Down.
+2013-06-30 15:00:46+0800 [-] Server Shut Down.
+2013-06-30 15:01:44+0800 [-] Log opened.
+2013-06-30 15:01:44+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:01:44+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:01:44+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:01:44+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02E20080>
+2013-06-30 15:01:44+0800 [-] start MyServerFactory
+2013-06-30 15:01:44+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:02:31+0800 [server.factories.mainFactory.MyServerFactory] sending 3003 bytes of poetry to IPv4Address(TCP, '127.0.0.1', 59800)
+2013-06-30 15:02:31+0800 [mainProtocol,0,127.0.0.1] dataReceived The Ecstasy
+	
+	Where, like a pillow on a bed
+	         A pregnant bank swell'd up to rest
+	The violet's reclining head,
+	         Sat we two, one another's best.
+	Our hands were firmly cemented
+	         With a fast balm, which thence did spring;
+	Our eye-beams twisted, and did thread
+	         Our eyes upon one double string;
+	So to'intergraft our hands, as yet
+	         Was all the means to make us one,
+	And pictures in our eyes to get
+	         Was all our propagation.
+	As 'twixt two equal armies fate
+	         Suspends uncertain victory,
+	Our souls (which to advance their state
+	         Were gone out) hung 'twixt her and me.
+	And whilst our souls negotiate there,
+	         We like sepulchral statues lay;
+	All day, the same our postures were,
+	         And we said nothing, all the day.
+	If any, so by love refin'd
+	         That he soul's language understood,
+	And by good love were grown all mind,
+	         Within convenient distance stood,
+	He (though he knew not which soul spake,
+	         Because both meant, both spake the same)
+	Might thence a new concoction take
+	         And part far purer than he came.
+	This ecstasy doth unperplex,
+	         We said, and tell us what we love;
+	We see by this it was not sex,
+	         We see we saw not what did move;
+	But as all several souls contain
+	         Mixture of things, they know not what,
+	Love these mix'd souls doth mix again
+	         And makes both one, each this and that.
+	A single violet transplant,
+	         The strength, the colour, and the size,
+	(All which before was poor and scant)
+	         Redoubles still, and multiplies.
+	When love with one another so
+	         Interinanimates two souls,
+	That abler soul, which thence doth flow,
+	         Defects of loneliness controls.
+	We then, who are this new soul, know
+	         Of what we are compos'd and made,
+	For th' atomies of which we grow
+	         Are souls. whom no change can invade.
+	But oh alas, so long, so far,
+	         Our bodies why do we forbear?
+	They'are ours, though they'are not we; we are
+	         The intelligences, they the spheres.
+	We owe them thanks, because they thus
+	         Did us, to us, at first convey,
+	Yielded their senses' force to us,
+	         Nor are dross to us, but allay.
+	On man heaven's influence works not so,
+	         But that it first imprints the air;
+	So soul into the soul may flow,
+	            Though it to body first repair.
+	As our blood labors to beget
+	         Spirits, as like souls as it can,
+	Because such fingers need to knit
+	         That subtle knot which makes us man,
+	So must pure lovers' souls descend
+	         T' affections, and to faculties,
+	Which sense may reach and apprehend,
+	         Else a great prince in prison lies.
+	To'our bodies turn we then, that so
+	         Weak men on love reveal'd may look;
+	Love's mysteries in souls do grow,
+	         But yet the body is his book.
+	And if some lover, such as we,
+	         Have heard this dialogue of one,
+	Let him still mark us, he shall see
+	         Small change, when we'are to bodies gone. 
+	
+	    -- John Donne
+	
+2013-06-30 15:02:57+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:02:57+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:02:57+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02E20080>
+2013-06-30 15:02:57+0800 [-] stop MyServerFactory
+2013-06-30 15:02:57+0800 [mainProtocol,0,127.0.0.1] connectionLost [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+	]
+2013-06-30 15:02:57+0800 [-] Main loop terminated.
+2013-06-30 15:02:57+0800 [-] Server Shut Down.
+2013-06-30 15:02:57+0800 [-] Server Shut Down.
+2013-06-30 15:04:09+0800 [-] Log opened.
+2013-06-30 15:04:09+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:04:09+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:04:09+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:04:09+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02CE0080>
+2013-06-30 15:04:09+0800 [-] start MyServerFactory
+2013-06-30 15:04:09+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:21:48+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:21:48+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:21:48+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02CE0080>
+2013-06-30 15:21:48+0800 [-] stop MyServerFactory
+2013-06-30 15:21:48+0800 [-] Main loop terminated.
+2013-06-30 15:21:48+0800 [-] Server Shut Down.
+2013-06-30 15:21:48+0800 [-] Server Shut Down.
+2013-06-30 15:21:51+0800 [-] Log opened.
+2013-06-30 15:21:51+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:21:51+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:21:51+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:21:51+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02E5B3F0>
+2013-06-30 15:21:51+0800 [-] start MyServerFactory
+2013-06-30 15:21:51+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:21:51+0800 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "C:\LMS\programme\python\DEV\python27\lib\threading.py", line 524, in __bootstrap
+	    self.__bootstrap_inner()
+	  File "C:\LMS\programme\python\DEV\python27\lib\threading.py", line 551, in __bootstrap_inner
+	    self.run()
+	  File "C:\LMS\programme\python\DEV\python27\lib\threading.py", line 504, in run
+	    self.__target(*self.__args, **self.__kwargs)
+	--- <exception caught here> ---
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\python\threadpool.py", line 172, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\python\context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\python\context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "C:\LMS\programme\python\PROJECT\testscript\InteSys\twisted\plugins\InteSys_plugin.py", line 75, in input
+	    cmd = threads.deferToThread(raw_input, "Python-QQ:")
+	exceptions.NameError: global name 'threads' is not defined
+	
+2013-06-30 15:22:03+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:22:03+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:22:03+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02E5B3F0>
+2013-06-30 15:22:03+0800 [-] stop MyServerFactory
+2013-06-30 15:22:03+0800 [-] Main loop terminated.
+2013-06-30 15:22:03+0800 [-] Server Shut Down.
+2013-06-30 15:22:03+0800 [-] Server Shut Down.
+2013-06-30 15:27:00+0800 [-] Log opened.
+2013-06-30 15:27:00+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:27:00+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:27:00+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:27:00+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02C40828>
+2013-06-30 15:27:00+0800 [-] start MyServerFactory
+2013-06-30 15:27:00+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:27:01+0800 [-] Python-QQ:test:test
+2013-06-30 15:27:01+0800 [-] ['test']
+2013-06-30 15:27:01+0800 [-] test []
+2013-06-30 15:27:01+0800 [-] Unhandled error in Deferred:
+2013-06-30 15:27:01+0800 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\internet\base.py", line 1201, in mainLoop
+	    self.runUntilCurrent()
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\internet\base.py", line 797, in runUntilCurrent
+	    f(*a, **kw)
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\internet\defer.py", line 380, in callback
+	    self._startRunCallbacks(result)
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\internet\defer.py", line 488, in _startRunCallbacks
+	    self._runCallbacks()
+	--- <exception caught here> ---
+	  File "C:\LMS\programme\python\DEV\python27\Lib\site-packages\twisted\internet\defer.py", line 575, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "C:\LMS\programme\python\PROJECT\testscript\InteSys\twisted\plugins\InteSys_plugin.py", line 85, in cmd
+	    self.conmand[oper](argv)
+	exceptions.TypeError: test() takes exactly 1 argument (2 given)
+	
+2013-06-30 15:27:05+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:27:05+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:27:05+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02C40828>
+2013-06-30 15:27:05+0800 [-] stop MyServerFactory
+2013-06-30 15:27:05+0800 [-] Main loop terminated.
+2013-06-30 15:27:05+0800 [-] Server Shut Down.
+2013-06-30 15:27:05+0800 [-] Server Shut Down.

@@ -1,0 +1,168 @@
+2013-06-30 14:43:04+0800 [-] Log opened.
+2013-06-30 14:43:04+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 14:43:04+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 14:43:04+0800 [-] MyServerFactory starting on 10000
+2013-06-30 14:43:04+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02ED0080>
+2013-06-30 14:43:04+0800 [-] start MyServerFactory
+2013-06-30 14:43:04+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 14:44:17+0800 [-] Received SIGINT, shutting down.
+2013-06-30 14:44:17+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 14:44:17+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02ED0080>
+2013-06-30 14:44:17+0800 [-] stop MyServerFactory
+2013-06-30 14:44:17+0800 [-] Main loop terminated.
+2013-06-30 14:44:17+0800 [-] Server Shut Down.
+2013-06-30 14:44:17+0800 [-] Server Shut Down.
+2013-06-30 14:44:41+0800 [-] Log opened.
+2013-06-30 14:44:41+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 14:44:41+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 14:44:41+0800 [-] MyServerFactory starting on 10000
+2013-06-30 14:44:41+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02DF2120>
+2013-06-30 14:44:41+0800 [-] start MyServerFactory
+2013-06-30 14:44:41+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 14:45:18+0800 [-] Received SIGINT, shutting down.
+2013-06-30 14:45:18+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 14:45:18+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02DF2120>
+2013-06-30 14:45:18+0800 [-] stop MyServerFactory
+2013-06-30 14:45:18+0800 [-] Main loop terminated.
+2013-06-30 14:45:18+0800 [-] Server Shut Down.
+2013-06-30 14:45:18+0800 [-] Server Shut Down.
+2013-06-30 15:00:32+0800 [-] Log opened.
+2013-06-30 15:00:32+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:00:32+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:00:32+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:00:32+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02E06FD0>
+2013-06-30 15:00:32+0800 [-] start MyServerFactory
+2013-06-30 15:00:32+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:00:46+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:00:46+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:00:46+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02E06FD0>
+2013-06-30 15:00:46+0800 [-] stop MyServerFactory
+2013-06-30 15:00:46+0800 [-] Main loop terminated.
+2013-06-30 15:00:46+0800 [-] Server Shut Down.
+2013-06-30 15:00:46+0800 [-] Server Shut Down.
+2013-06-30 15:01:27+0800 [-] Log opened.
+2013-06-30 15:01:27+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:01:27+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:01:27+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:01:27+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02D0E030>
+2013-06-30 15:01:27+0800 [-] start MyServerFactory
+2013-06-30 15:01:27+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:01:34+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:01:34+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:01:34+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02D0E030>
+2013-06-30 15:01:34+0800 [-] stop MyServerFactory
+2013-06-30 15:01:34+0800 [-] Main loop terminated.
+2013-06-30 15:01:34+0800 [-] Server Shut Down.
+2013-06-30 15:01:34+0800 [-] Server Shut Down.
+2013-06-30 15:01:44+0800 [-] Log opened.
+2013-06-30 15:01:44+0800 [-] twistd 13.0.0 (C:\LMS\programme\python\DEV\python27\python.exe 2.7.3) starting up.
+2013-06-30 15:01:44+0800 [-] reactor class: twisted.internet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:01:44+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:01:44+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02E20080>
+2013-06-30 15:01:44+0800 [-] start MyServerFactory
+2013-06-30 15:01:44+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:02:31+0800 [server.factories.mainFactory.MyServerFactory] sending 3003 bytes of poetry to IPv4Address(TCP, '127.0.0.1', 59800)
+2013-06-30 15:02:31+0800 [mainProtocol,0,127.0.0.1] dataReceived The Ecstasy
+	
+	Where, like a pillow on a bed
+	         A pregnant bank swell'd up to rest
+	The violet's reclining head,
+	         Sat we two, one another's best.
+	Our hands were firmly cemented
+	         With a fast balm, which thence did spring;
+	Our eye-beams twisted, and did thread
+	         Our eyes upon one double string;
+	So to'intergraft our hands, as yet
+	         Was al2013-06-30 15:02:31+0800 [mainProtocol,client] dataReceived The Ecstasy
+	
+	Where, like a pillow on a bed
+	         A pregnant bank swell'd up to rest
+	The violet's reclining head,
+	         Sat we two, one another's best.
+	Our hands were firmly cemented
+	         With a fast balm, which thence did spring;
+	Our eye-beams twisted, and did thread
+	         Our eyes upon one double string;
+	So to'intergraft our hands, as yet
+	         Was all the means to make us one,
+	And pictures in our eyes to get
+	         Was all our propagation.
+	As 'twixt two equal armies fate
+	         Suspends uncertain victory,
+	Our souls (which to advance their state
+	         Were gone out) hung 'twixt her and me.
+	And whilst our souls negotiate there,
+	         We like sepulchral statues lay;
+	All day, the same our postures were,
+	         And we said nothing, all the day.
+	If any, so by love refin'd
+	         That he soul's language understood,
+	And by good love were grown all mind,
+	         Within convenient distance stood,
+	He (though he knew not which soul spake,
+	         Because both meant, both spake the same)
+	Might thence a new concoction take
+	         And part far purer than he came.
+	This ecstasy doth unperplex,
+	         We said, and tell us what we love;
+	We see by this it was not sex,
+	         We see we saw not what did move;
+	But as all several souls contain
+	         Mixture of things, they know not what,
+	Love these mix'd souls doth mix again
+	         And makes both one, each this and that.
+	A single violet transplant,
+	         The strength, the colour, and the size,
+	(All which before was poor and scant)
+	         Redoubles still, and multiplies.
+	When love with one another so
+	         Interinanimates two souls,
+	That abler soul, which thence doth flow,
+	         Defects of loneliness controls.
+	We then, who are this new soul, know
+	         Of what we are compos'd and made,
+	For th' atomies of which we grow
+	         Are souls. whom no change can invade.
+	But oh alas, so long, so far,
+	         Our bodies why do we forbear?
+	They'are ours, though they'are not we; we are
+	         The intelligences, they the spheres.
+	We owe them thanks, because they thus
+	         Did us, to us, at first convey,
+	Yielded their senses' force to us,
+	         Nor are dross to us, but allay.
+	On man heaven's influence works not so,
+	         But that it first imprints the air;
+	So soul into the soul may flow,
+	            Though it to body first repair.
+	As our blood labors to beget
+	         Spirits, as like souls as it can,
+	Because such fingers need to knit
+	         That subtle knot which makes us man,
+	So must pure lovers' souls descend
+	         T' affections, and to facu2013-06-30 15:02:57+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:02:57+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:02:57+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02E20080>
+2013-06-30 15:02:57+0800 [-] stop MyServerFactory
+2013-06-30 15:02:57+0800 [mainProtocol,0,127.0.0.1] connectionLost [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'2013-06-30 15:02:57+0800 [mainProtocol,client] connectionLost [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly: Connection done.
+	]
+2013-06-30 15:02:57+0800 [mainProtocol,client] clientConnectionLost:[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly: Connection done.
+	]
+2013-06-30 15:02:57+0800 [mainProtocol,client] Stopping factory <server.factories.mainFactory.MyClientFactory instance at 0x02CE6030>
+2013-06-30 15:02:57+0800 [mainProtocol,client] stop MyClientFactory
+2013-06-30 15:04:12+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:04:12+0800 [-] Main loop terminated.
+2013-06-30 15:04:12+0800 [-] Server Shut Down.
+2013-06-30 15:04:12+0800 [-] Server Shut Down.
+ernet.iocpreactor.reactor.IOCPReactor.
+2013-06-30 15:04:09+0800 [-] MyServerFactory starting on 10000
+2013-06-30 15:04:09+0800 [-] Starting factory <server.factories.mainFactory.MyServerFactory instance at 0x02CE0080>
+2013-06-30 15:04:09+0800 [-] start MyServerFactory
+2013-06-30 15:04:09+0800 [-] loaded a poem from: poetry/ecstasy.txt
+2013-06-30 15:21:48+0800 [-] Received SIGINT, shutting down.
+2013-06-30 15:21:48+0800 [-] (TCP Port 10000 Closed)
+2013-06-30 15:21:48+0800 [-] Stopping factory <server.factories.mainFactory.MyServerFactory instance at 0x02CE0080>
+2013-06-30 15:21:48+0800 [-] stop MyServerFactory
+2013-06-30 15:21:48+0800 [-] Main loop terminated.
+2013-06-30 15:21:48+0800 [-] Server Shut Down.
+2013-06-30 15:21:48+0800 [-] Server Shut Down.
