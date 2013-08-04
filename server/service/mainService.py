@@ -53,5 +53,17 @@ class mainService(service.Service):
 
     def senddata(self,transport,packagedata):
         transport.write(packagedata)
+        
+    def command_data(self,cmd):       
+        if oper == 'reload':
+            exec('self.service.cmd_'+oper+'(argv)')
+#        print oper,argv
+        elif oper in self.command:
+#            self.command[oper](argv)
+#            exec('self.service.cmdmod.cmd_'+oper+'(argv)')
+            getattr(self.service.cmdmod,'cmd_'+oper)(argv)
+        else:
+            log.msg( 'nonsupport this commond')
+            log.msg( 'commonds:'+str(self.command))
             
         
