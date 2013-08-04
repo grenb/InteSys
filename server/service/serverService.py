@@ -15,7 +15,7 @@ class serverService(mainService):
 
     def connectionMade(self,transport,name = 'server'):
         log.msg('connectionMade:%s'%str(transport.getPeer()))
-        address = transport.getPeer()
+#        address = transport.getPeer()
         self.clients[name] = transport
 #        self.clients[str(address.host)+':'+str(address.port)] = transport
 

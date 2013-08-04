@@ -7,8 +7,10 @@ Created on 2013-6-22
 from twisted.application import service
 from twisted.python import log
 from server.remod.basemod import basemod
+import Protocol
 import sys, os
 from library.MyCmd import MyCmd
+from library.MySerialize import MySerialize
 
 
 class mainService(service.Service):
@@ -19,6 +21,7 @@ class mainService(service.Service):
     def __init__(self, reactor):
         self.cmdmod = basemod(self)
         self.reactor = reactor
+        self.myserialize = MySerialize(Protocol)
 
     def startService(self):
         service.Service.startService(self)
@@ -48,6 +51,7 @@ class mainService(service.Service):
             self.cmdmod = getattr(module,'basemod')(self)            
             self.cmd.init_cmd(getattr(module,'basemod'))
 
-            
+    def senddata(self,transport,packagedata):
+        transport.write(packagedata)
             
         

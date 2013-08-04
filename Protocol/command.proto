@@ -1,0 +1,6 @@
+package System;   
+message command   
+{     
+    required string    opt = 1;
+    optional string    arg = 2;
+}
