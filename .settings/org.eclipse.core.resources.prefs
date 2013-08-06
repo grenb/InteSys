@@ -1,8 +1,9 @@
-#Sun Aug 04 22:44:55 CST 2013
 eclipse.preferences.version=1
+encoding//Protocol/create.py=utf-8
 encoding//library/MyCmd.py=utf-8
 encoding//library/MySerialize.py=utf-8
 encoding//server/factories/mainFactory.py=utf-8
+encoding//server/main.py=utf-8
 encoding//server/protocols/mainProtocol.py=utf-8
 encoding//server/remod/basemod.py=utf-8
 encoding//server/service/clientService.py=utf-8
