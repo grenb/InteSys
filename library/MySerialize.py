@@ -50,7 +50,10 @@ class MySerialize():
     
     def GetTypeName(self,msg):
         return msg.DESCRIPTOR.full_name
-    
+
+    def GetName(self,msg):
+        return msg.DESCRIPTOR.name
+
     def Serialize(self,msg):
         if msg:
             data = ''

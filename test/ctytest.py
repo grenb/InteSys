@@ -11,7 +11,7 @@ from google.protobuf import descriptor_pool
 from google.protobuf import message_factory
 from google.protobuf import descriptor_pb2
 from Protocol import command_pb2
-import time
+import time,zlib
 
 class keywords(Structure): 
     _fields_ = [('words', c_char *10),] 
@@ -26,6 +26,7 @@ def pys():
         run.arg = 'neww'
         res = run.SerializeToString()
         print res
+        print zlib.adler32(res)
         name = run.DESCRIPTOR.full_name
         print name
         com = createMessage(name)
@@ -72,11 +73,13 @@ def s():
         print '1'
     
 if __name__ == '__main__':
-    starttime = time.time()
-    pys()
+    starttime = time.clock()
+    print type(zlib.adler32('gggggggggggggggggggggggg'))
+    print zlib.crc32('1')
+    # pys()
 #    s()
 #    cs()
-    print time.time()-starttime
+    print time.clock()-starttime
     
     
 
